@@ -3,5 +3,5 @@ notifications:
   email:
     - dsanders@coffeecoco.net
 env:
-  - PUPPET_VERSION=2.6.14
   - PUPPET_VERSION=4.4.1
+script: rake rspec
