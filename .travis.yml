@@ -1,9 +1,0 @@
-rvm: 2.1.6
-notifications:
-  email:
-    - dsanders@coffeecoco.net
-env:
-  - PUPPET_VERSION=3.3
-  - PUPPET_VERSION=4.4.1
-install: gem install rails
-#script: rake rspec

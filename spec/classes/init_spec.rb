@@ -1,6 +1,7 @@
-# spec/classes/init_spec.rb
 require 'spec_helper'
+describe 'splunk' do
 
-describe "git::init" do
-  it { should create_class('git::package')}
+  context 'with defaults for all parameters' do
+    it { should contain_class('splunk') }
+  end
 end
