@@ -1,4 +1,5 @@
-rvm: 2.1.6
+rvm: 1.26.11
+gem: 2.1.6p336
 notifications:
   email:
     - dsanders@coffeecoco.net
