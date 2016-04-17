@@ -1,3 +1,4 @@
+rvm: 2.1.6
 notifications:
   email:
     - dsanders@coffeecoco.net
